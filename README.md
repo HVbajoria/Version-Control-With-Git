@@ -1,1 +1,2 @@
-"" 
+This was the final assignment in the version control with git by Atlassian on Coursera. The task was to create a git repository with the commits shown in the graph and the table shown. This simulates a team building and releasing a product using a git workflow.The first release (V1.00) has only one feature. Soon after a release a bug was discovered and a hotfix (v1.01) was made.
+I got 100% score in this task and reviews like "beautifully carried out", "Well done!!".    
